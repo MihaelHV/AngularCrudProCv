@@ -1,24 +1,6 @@
 {
   "asesorList": [
     {
-      "asesorName": "Ivan",
-      "asesorApellido": "Cardenas",
-      "asesorDNI": "11111",
-      "id": 1
-    },
-    {
-      "asesorName": "jose",
-      "asesorApellido": "Altamirano",
-      "asesorDNI": "233113",
-      "id": 2
-    },
-    {
-      "asesorName": "Juan Carlos",
-      "asesorApellido": "El pcc",
-      "asesorDNI": "21112211",
-      "id": 3
-    },
-    {
       "asesorName": "Holtas",
       "asesorApellido": "De Mar",
       "asesorDNI": "21111223",
@@ -35,6 +17,18 @@
       "asesorApellido": "Hal",
       "asesorDNI": "1233551",
       "id": 6
+    },
+    {
+      "asesorName": "Elio",
+      "asesorApellido": "Tarazona",
+      "asesorDNI": "122313213",
+      "id": 7
+    },
+    {
+      "asesorName": "yuluy",
+      "asesorApellido": "ewew",
+      "asesorDNI": "12333",
+      "id": 8
     }
   ]
 }
