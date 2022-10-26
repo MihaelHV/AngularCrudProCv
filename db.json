@@ -1,12 +1,6 @@
 {
   "asesorList": [
     {
-      "asesorName": "Holtas",
-      "asesorApellido": "De Mar",
-      "asesorDNI": "21111223",
-      "id": 4
-    },
-    {
       "asesorName": "Staryukii",
       "asesorApellido": "Twitch",
       "asesorDNI": "1221122",
@@ -25,10 +19,28 @@
       "id": 7
     },
     {
-      "asesorName": "Franchesco",
-      "asesorApellido": "Tarazona",
-      "asesorDNI": "1233311",
-      "id": 8
+      "asesorName": "Francis",
+      "asesorApellido": "Aramburu",
+      "asesorDNI": "12121212",
+      "id": 9
+    },
+    {
+      "asesorName": "Bob ",
+      "asesorApellido": "Esponja",
+      "asesorDNI": "12121212",
+      "id": 10
+    },
+    {
+      "asesorName": "Don",
+      "asesorApellido": "Cangrejo",
+      "asesorDNI": "12121212",
+      "id": 11
+    },
+    {
+      "asesorName": "ASH",
+      "asesorApellido": "KETCHUM",
+      "asesorDNI": "12121215",
+      "id": 12
     }
   ]
 }
